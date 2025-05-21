@@ -14,7 +14,9 @@ El sistema de Gestión Hospitalaria desarrollado por el alumnado del **IES Migue
 Para instalar y configurar la aplicación en tu entorno local, sigue los siguientes pasos:
 <!--No se insertar codigo--> <!--No sabia-->
 1. Clona el repositorio desde GitHub: 
-  `git clone https://github.com/DanCabAltF4/ExamenRetoDAM1EntornosDanielCabeza`
+  ```bash
+  git clone https://github.com/DanCabAltF4/ExamenRetoDAM1EntornosDanielCabeza
+  ```
 2. Abre el proyecto en tu entorno de desarrollo preferido (VSCode,IntelliJ...).
 3. Configura la base de datos según las instrucciones en el archivo config-bd.md.
 4. Compila y ejecuta el proyecto.
