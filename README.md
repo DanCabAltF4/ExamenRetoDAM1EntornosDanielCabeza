@@ -12,7 +12,9 @@
 El sistema de Gestión Hospitalaria desarrollado por el alumnado del **IES Miguel Herrero Pereda** permite a pacientes, médicos y administradores gestionar las operacioness básicas de un centro médico de forma segura y eficiente.
 ## **Instalación**
 Para instalar y configurar la aplicación en tu entorno local, sigue los siguientes pasos:
-1. Clona el repositorio desde GitHub: <!--No se insertar codigo-->
+<!--No se insertar codigo--> <!--No sabia-->
+1. Clona el repositorio desde GitHub: 
+  `git clone https://github.com/DanCabAltF4/ExamenRetoDAM1EntornosDanielCabeza`
 2. Abre el proyecto en tu entorno de desarrollo preferido (VSCode,IntelliJ...).
 3. Configura la base de datos según las instrucciones en el archivo config-bd.md.
 4. Compila y ejecuta el proyecto.
@@ -37,9 +39,9 @@ A continuacion se detalla la función dentro del sistema de cada uno de los usuu
 ## **Contribución**
 ¿Quieres colaborar en el desarrollo?
 1. Haz un fork del repositorio
-2. Crea una nueva rama (git chekout -b feature/tu-mejora).
-3. Realiza tus cambios y haz commit (git commit -am 'Agrega nueva funcionalidad').
-4. Haz push a la rama (git push origin feature/nueva-funcionalidad).
+2. Crea una nueva rama (`git chekout -b feature/tu-mejora`).
+3. Realiza tus cambios y haz commit (`git commit -am 'Agrega nueva funcionalidad'`).
+4. Haz push a la rama (`git push origin feature/nueva-funcionalidad`).
 5. Abre un pull request su revisión
 ## **Licencia**
 Este proyecto está bajo la licencia [MIT](https://opensource.org/license/MIT)
